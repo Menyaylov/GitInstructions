@@ -1,5 +1,5 @@
 # My Git Instructions
-
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg "Логотип Git")
 ## Базовые термины первого семинара
 
 * *git init* – инициализация локального репозитория;
