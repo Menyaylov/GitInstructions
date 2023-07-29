@@ -21,3 +21,6 @@
 * *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом;
 
 По работе с синтаксисом Markdown, можно использовать подробную [шпаргалку](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/ "Язык разметки Markdown: шпаргалка по синтаксису с примерами").
+
+* *git branch <название ветки>* – создать новую ветку;
+
